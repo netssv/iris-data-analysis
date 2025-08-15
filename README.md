@@ -83,6 +83,6 @@ Potential enhancements could include:
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Rodrigo Martel  
 **Date**: August 2025  
 **Purpose**: Portfolio project demonstrating data science fundamentals
